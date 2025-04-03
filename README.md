@@ -1,7 +1,7 @@
 # robbitsAnimationWithMiocene
 
 ## *Description*
-css animation of two bunnies
+css animation of two robbits
 
 ## View the website
 https://inna-html.github.io/robbitsAnimationWithMiocene/
